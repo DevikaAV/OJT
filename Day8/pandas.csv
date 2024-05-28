@@ -1,0 +1,9 @@
+name,Age,Place,Salary,emptycolumn
+Devu,23,kollam,45000,NaN
+Devika,23,tvm,35000,NaN
+dhanya,24,kannur,40000,NaN
+ganga,25,calicut,32000,NaN
+rahitha,23,idukki,30000,NaN
+ammu,25,kochi,41000,NaN
+lisy,21,kollam,50000,NaN
+NaN,NaN,NaN,NaN,
